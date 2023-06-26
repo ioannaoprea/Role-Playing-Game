@@ -11,7 +11,7 @@
 
 ### The challenge
 
-Role Playing Game Exercise
+Role Playing Game Exercise from Scrimba Module 7
 
 ### What I learned
 
